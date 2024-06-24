@@ -29,6 +29,8 @@
 
 - [Mario Bross](https://wesleypauloti.github.io/MarioBross/)
 - [Locação de Carros Elétricos](http://wesleypauloti.free.nf/ProjetoMVC/mvc/View/home.php)
-- [link3](https://google.com)
-- [link4](https://google.com)
+- [Cordel](https://wesleypauloti.github.io/cordel/)
+- [Tabuada](https://wesleypauloti.github.io/Tabuada/)
+- [Perfil](https://wesleypauloti.github.io/Perfil/)
+- [TimeZone](https://wesleypauloti.github.io/TimeZone/)
 
