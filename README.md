@@ -27,7 +27,7 @@
 
 ## Alguns dos Projetos:
 
-- [link1]([https://google.com](https://wesleypauloti.github.io/MarioBross/))
+- [link1](https://wesleypauloti.github.io/MarioBross/)
 - [link2](https://google.com)
 - [link3](https://google.com)
 - [link4](https://google.com)
