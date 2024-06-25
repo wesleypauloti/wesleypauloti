@@ -36,4 +36,5 @@ wesleyoares7@gmail.com
 - [Tabuada](https://wesleypauloti.github.io/Tabuada/)
 - [Perfil](https://wesleypauloti.github.io/Perfil/)
 - [TimeZone](https://wesleypauloti.github.io/TimeZone/)
+- [Sorteio de Números](https://wesleypauloti.github.io/numero-sorteio/)
 
