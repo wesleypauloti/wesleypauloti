@@ -1,4 +1,6 @@
 ## Olá, Eu sou Wesley Paulo  😁
+(11) 99886-3621
+wesleyoares7@gmail.com
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/wesleypauloti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-paulo-ti)
