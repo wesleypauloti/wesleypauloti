@@ -8,7 +8,7 @@ wesleyoares7@gmail.com
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
-![Wesley Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypauloti&show_icons=true&theme=radical)
+<!--[![Wesley Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypauloti&show_icons=true&theme=radical)-->
 
 ## Tecnologias que eu utilizo no meu dia a dia
 
