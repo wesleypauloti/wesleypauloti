@@ -37,4 +37,5 @@ wesleyoares7@gmail.com
 - [Perfil](https://wesleypauloti.github.io/Perfil/)
 - [TimeZone](https://wesleypauloti.github.io/TimeZone/)
 - [Sorteio de Números](https://wesleypauloti.github.io/numero-sorteio/)
+- [Previsão do Tempo](https://weather-wesleypauloti.vercel.app/)
 
